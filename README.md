@@ -22,10 +22,10 @@ Creating a mind map for manual testing provides a visual and intuitive way to or
 Writing test scenarios for manual testing is an essential step in the quality assurance process. Test scenarios help ensure that all possible actions and workflows within the application are tested effectively.
 # Test Case Writing
 Main part of the project. After doing all the things that helps to write and execute the test cases more specific. In this project all the test cases have been executed without having any delay. There are 94 Pass test cases and 10 Fail test cases. It only for the Sign Up and Login feature. There I maintain a sequence of testing:
-- [Browser Compatibility]
-- [UI testing]
-- [Functional testing]
-- [Usability testing]
+- Browser Compatibility
+- UI testing
+- Functional testing
+- Usability testing
 # Test Summary
 A test summary for manual testing is an essential part of the testing lifecycle. It provides a comprehensive overview of the testing process, outcomes, and overall product quality.
 # Bug Report
