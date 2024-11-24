@@ -13,9 +13,9 @@ The key concept testing "Aarong" is to ensure that the application is error free
 - [Test Summary](#test-summary)
 - [Bug Report](#bug-report)
 - [Test Metrics](#test-metrics)
-
 # Test Plan
 At first done the test planning for better understanding about the project and overview all over the app. Writing a test plan for manual testing is crucial for organizing and standardizing the testing process. It ensures that testing is thorough, consistent, and aligned with the project’s objectives.  So that when write test cases it helps to understand the functionality.
+![Test Plan for Aarong](https://github.com/user-attachments/assets/b9883da6-897b-409b-916d-e8ab39e206fc)
 # Mind Map
 Creating a mind map for manual testing provides a visual and intuitive way to organize and communicate the testing process. It helps testers break down complex ideas, prioritize tasks, and ensure comprehensive coverage of testing scenarios.
 ![Aarong](https://github.com/user-attachments/assets/71a3ffe7-6ea2-49f1-966f-05cdbffe2dc4)
