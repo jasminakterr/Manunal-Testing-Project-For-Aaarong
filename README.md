@@ -30,8 +30,9 @@ Main part of the project. After doing all the things that helps to write and exe
 # Test Summary
 A test summary for manual testing is an essential part of the testing lifecycle. It provides a comprehensive overview of the testing process, outcomes, and overall product quality.
 # Bug Report
-Bug reports is a critical activity in manual testing, as it provides a structured way to document and communicate issues discovered during the testing process. The number of bugs discovered in test case writing is concentrated in this section. As we already know from the previous section (Test Case Writing), 10 test cases failed. #SL-11,22,23,24,27,28,29,36,68,88 denotes the errors identified and written on those rows in the 10 bug reporting boxes below.
-# Test Metrics
+Bug reports is a critical activity in manual testing, as it provides a structured way to document and communicate issues discovered during the testing process. The number of bugs discovered in test case writing is concentrated in this section. As we already know from the previous section (Test Case Writing), 10 test cases failed. #SL-11,22,23,24,27,28,29,36,68,88 denotes the errors identified and written on those rows in the 10 bug reporting boxes below
+# Test ![Aarong - Bug Report](https://github.com/user-attachments/assets/ecd38f78-35f4-4b0a-90ae-ff4a1c5225a6)
+Metrics
 Test metrics for manual testing is essential for measuring, analyzing, and improving the testing process and the overall quality of the product. Test metrics provide quantifiable data to track the progress, efficiency, and effectiveness of testing activities.
 
 ![Aarong _Test_Metrics](https://github.com/user-attachments/assets/bafe7b19-3348-4eca-ab68-357bd045c833)
